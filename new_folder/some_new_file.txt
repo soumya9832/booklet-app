@@ -1,2 +1,3 @@
 some file name
 This is a new line
+This is another new line in new_branch
